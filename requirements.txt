@@ -1,0 +1,8 @@
+jupyter
+pandas
+numpy
+networkx
+matplotlib
+scipy
+plotly
+wordcloud
